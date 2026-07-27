@@ -1,3 +1,4 @@
+//Suma and Average of the elements of the array
 import java.util.Scanner;
 public class array3 {
     public static void main(String[] args) {
