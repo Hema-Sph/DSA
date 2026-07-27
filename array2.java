@@ -1,3 +1,4 @@
+//Adding values into a 1D array and printing them one by one
 import java.util.Scanner;
 public class array2{
     public static void main(String[] args) {
