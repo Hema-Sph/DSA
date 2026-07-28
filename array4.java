@@ -1,3 +1,4 @@
+//Adding elements into a 2D array and printing them in a format
 import java.util.Scanner;
 
 public class array4 {
