@@ -1,3 +1,4 @@
+//Finding Maximum and Minimum number from an array
 import java.util.Scanner;
 public class array7 {
    public static void main(String[] args) {
@@ -20,7 +21,9 @@ public class array7 {
     }
     System.out.println("Maximum number from the array is "+max);
     System.out.println("Minimum number from the array is "+min);
-}
+      
+   sc.close();
+   }
 }
    
 
